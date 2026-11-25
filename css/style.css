@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 70%;
+    margin: 50px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #d63384;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+p, li {
+    font-size: 17px;
+    line-height: 1.6;
+}
